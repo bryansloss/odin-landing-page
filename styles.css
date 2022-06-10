@@ -116,3 +116,27 @@ a {
     border: 6px solid var(--action-background-color);
     border-radius: .5rem;
 }
+
+.quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 100%;
+    background-color: var(--quote-background-color);
+}
+
+figure {
+    width: 75%;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 28px;
+    margin: 0;
+}
+
+.quote-caption {
+    text-align: right;
+    padding-right: 50px;
+}
