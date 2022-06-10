@@ -25,6 +25,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     background-color: var(--dark-background-color);
+    padding: 0 100px;
 }
 
 .header-links {
@@ -49,6 +50,7 @@ a {
     gap: 32px;
     align-items: flex-start;
     background-color: var(--dark-background-color);
+    padding: 100px;
 }
 
 .hero-content {
