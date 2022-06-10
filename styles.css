@@ -172,3 +172,14 @@ figure {
     color: var(--white-font-color);
     margin-right: 20px;
 }
+
+footer {
+    height: 50px;
+    background-color: var(--dark-background-color);
+    display: flex;
+    justify-content: center;
+}
+
+footer p {
+    color: var(--quote-background-color);
+}
